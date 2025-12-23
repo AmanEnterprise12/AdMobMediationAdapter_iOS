@@ -1,0 +1,1 @@
+# AdMobMediationAdapter_iOS
