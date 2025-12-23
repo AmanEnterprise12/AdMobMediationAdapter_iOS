@@ -3,8 +3,8 @@
 This repository contains the AdMob mediation adapter for iOS.
 
 ## Requirements
-- iOS 11+
-- Xcode 12+
+- iOS 12 or higher
+- Xcode 16.0 or higher
 - Google Mobile Ads SDK
 
 ## Installation (Swift Package Manager)
