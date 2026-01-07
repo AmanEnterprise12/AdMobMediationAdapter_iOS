@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   }
 
   # Binary XCFramework
-  s.vendored_frameworks = 'AdMobMediationAdapter.xcframework'
+  s.vendored_frameworks = 'Ad4AppAdMobMediationAdapter.xcframework'
 
   # Required for binary-only pods
   s.requires_arc = true

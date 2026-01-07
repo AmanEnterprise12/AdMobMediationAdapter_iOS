@@ -2,18 +2,18 @@
 import PackageDescription
 
 let package = Package(
-    name: "AdMobMediationAdapter",
+    name: "Ad4AppAdMobMediationAdapter",
     platforms: [.iOS(.v12)],
     products: [
         .library(
-            name: "AdMobMediationAdapter",
-            targets: ["AdMobMediationAdapter"]
+            name: "Ad4AppAdMobMediationAdapter",
+            targets: ["Ad4AppAdMobMediationAdapter"]
         )
     ],
     targets: [
         .binaryTarget(
-            name: "AdMobMediationAdapter",
-            path: "AdMobMediationAdapter.xcframework"
+            name: "Ad4AppAdMobMediationAdapter",
+            path: "Ad4AppAdMobMediationAdapter.xcframework"
         )
     ]
 )

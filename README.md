@@ -38,7 +38,7 @@ It supports both **Swift Package Manager** and **CocoaPods**.
 
 1. Add the following line to your `Podfile`:
     ```ruby
-    pod 'AdMobMediationAdapter', '~> 1.0'
+    pod 'AmanEnterpriseAdMobMediationAdapter', '~> 1.0'
     ```
 2. Then run:
     ```ruby

@@ -1,0 +1,6 @@
+framework module Ad4AppAdMobMediationAdapter {
+  umbrella header "Ad4AppAdMobMediationAdapter.h"
+  export *
+
+  module * { export * }
+}
